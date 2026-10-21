@@ -6,6 +6,11 @@ misiones, diálogos de NPC, tiendas, mapas, enciclopedia, acertijos, interfaz y 
 
 > Proyecto comunitario. No está afiliado al juego ni a sus propietarios.
 
+> [!IMPORTANT]
+> **Después de cada mantenimiento del juego tendrás que volver a copiar los archivos.** Cuando el juego tiene mantenimiento
+> restablece la carpeta `Language` a los archivos originales en inglés, y la traducción desaparece hasta que la copies de nuevo.
+> Guarda el `.zip` descargado para hacerlo rápido (ver [Después de un mantenimiento](#después-de-un-mantenimiento)).
+
 ## Estado
 
 - Versión actual: **v1.0**.
@@ -39,6 +44,12 @@ El resumen completo del trabajo está en [docs/TRABAJO_REALIZADO.md](docs/TRABAJ
 6. Abre el juego.
 
 Para desinstalar, vuelve a copiar tu copia de seguridad.
+
+### Después de un mantenimiento
+
+Si después de un mantenimiento el juego vuelve a salir en inglés, es normal: se restablecieron los archivos de `Language`.
+Cierra el juego, copia otra vez los archivos `*_US.bin` del `.zip` dentro de la carpeta `Language` (paso 5) y ábrelo.
+No hace falta repetir la copia de seguridad.
 
 Si el juego se cierra o no abre después de instalarla, restaura la copia de seguridad y abre un
 [Issue](../../issues) contando qué pasó, qué estabas haciendo y a qué hora.
