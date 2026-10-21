@@ -1,0 +1,54 @@
+name: Reportar un error de la traducción
+description: Texto mal traducido, cortado, fuera del recuadro o que sigue en inglés
+title: "[Error] "
+labels: ["bug"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Gracias por avisar. Una captura de pantalla donde se vea el problema ayuda mucho.
+        Si el juego se cerró, restaura tu copia de seguridad de la carpeta `Language` y cuéntanos qué estabas haciendo.
+  - type: dropdown
+    id: tipo
+    attributes:
+      label: Tipo de problema
+      options:
+        - El texto se sale del recuadro o se corta
+        - Término mal traducido o que no suena bien
+        - Texto que sigue en inglés
+        - El mismo nombre aparece distinto en dos ventanas
+        - El juego se cierra o falla
+        - Otro
+    validations:
+      required: true
+  - type: input
+    id: donde
+    attributes:
+      label: Dónde aparece
+      description: Nombre de la ventana, el NPC, el objeto, la misión, el mapa, etc.
+      placeholder: "Ejemplo: ventana del Dex, Digimon Agumon, campo Lugar donde aparece"
+    validations:
+      required: true
+  - type: textarea
+    id: actual
+    attributes:
+      label: Qué dice ahora
+      description: Copia el texto tal como se ve en el juego.
+    validations:
+      required: true
+  - type: textarea
+    id: esperado
+    attributes:
+      label: Qué debería decir
+      description: Si lo sabes. Si no, déjalo en blanco.
+  - type: textarea
+    id: captura
+    attributes:
+      label: Captura de pantalla
+      description: Arrastra la imagen aquí o pégala con Ctrl+V.
+  - type: input
+    id: version
+    attributes:
+      label: Versión de la traducción
+      description: La que descargaste de Releases.
+      placeholder: v1.0

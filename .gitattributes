@@ -1,0 +1,3 @@
+# Archivos de idioma del juego: tratarlos siempre como binarios.
+# Usan saltos de linea CR (\r) y Git no debe convertirlos nunca.
+*.bin binary
