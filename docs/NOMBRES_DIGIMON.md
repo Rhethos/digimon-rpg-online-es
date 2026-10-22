@@ -21,6 +21,19 @@ Qinglongmon -> Azulongmon
 Xuanwumon -> Ebonwumon
 Herakle Kabuterimon -> HerculesKabuterimon
 Pico Devimon / PicoDevimon -> DemiDevimon (Pico es el nombre japones)
+Pegasmon -> Pegasusmon
+Chibimon -> DemiVeemon (Chibimon es el nombre japones)
+Fladramon -> Flamedramon
+Lighdramon -> Raidramon
+Holsmon -> Halsemon
+Gottsumon -> Gotsumon
+Tunomon -> Tsunomon
+Mushmon -> Mushroomon
+Lowemon -> Loweemon
+Culumon -> Calumon
+Siesamon -> Seasarmon
+Insekimon -> Meteormon
+Gaioumon -> Gaiomon
 Nombres unidos: War Greymon, Black War Greymon, Metal Greymon, Metal Garurumon, Were Garurumon, Blitz Greymon, Cres Garurumon, Zeke Greymon, Shine Greymon, Victory Greymon, Rize Greymon, Kaiser Greymon, Mega/Giga/Metal Seadramon, Metal Etemon, King Etemon, Saint Galgomon, Lady Devimon, Ice Devimon, Marin Angemon, Marin Devimon, Rhino Kabuterimon, Skull Satamon, Skull Mammon.
 X-Antibody -> Anticuerpo X
 
