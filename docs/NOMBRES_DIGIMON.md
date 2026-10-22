@@ -20,7 +20,8 @@ Agnimon -> Agunimon
 Qinglongmon -> Azulongmon
 Xuanwumon -> Ebonwumon
 Herakle Kabuterimon -> HerculesKabuterimon
-Nombres unidos: War Greymon, Black War Greymon, Metal Greymon, Metal Garurumon, Were Garurumon, Blitz Greymon, Cres Garurumon, Zeke Greymon, Shine Greymon, Victory Greymon, Rize Greymon, Kaiser Greymon, Mega/Giga/Metal Seadramon, Metal Etemon, King Etemon, Saint Galgomon, Lady Devimon, Pico Devimon, Ice Devimon, Marin Angemon, Marin Devimon, Rhino Kabuterimon, Skull Satamon, Skull Mammon.
+Pico Devimon / PicoDevimon -> DemiDevimon (Pico es el nombre japones)
+Nombres unidos: War Greymon, Black War Greymon, Metal Greymon, Metal Garurumon, Were Garurumon, Blitz Greymon, Cres Garurumon, Zeke Greymon, Shine Greymon, Victory Greymon, Rize Greymon, Kaiser Greymon, Mega/Giga/Metal Seadramon, Metal Etemon, King Etemon, Saint Galgomon, Lady Devimon, Ice Devimon, Marin Angemon, Marin Devimon, Rhino Kabuterimon, Skull Satamon, Skull Mammon.
 X-Antibody -> Anticuerpo X
 
 Grupo 2: V-mon -> Veemon, XV-mon -> ExVeemon, V-dramon -> Veedramon (Ulforce V-dramon -> UlforceVeedramon, Aero V-dramon -> AeroVeedramon), Armadimon -> Armadillomon, Tyranomon -> Tyrannomon, Mephismon -> Mephistomon, Chackmon -> Chakmon, Mercurymon -> Mercuremon, Ravmon -> Ravemon, Jyureimon -> Jureimon, Beatmon -> Beetlemon, Omega Shoutmon -> Omnishoutmon, Demon -> Daemon, Mirage Gaogamon -> MirageGaogamon, Magna Garurumon -> MagnaGarurumon, Gorgeous Leviamon -> Leviamon Esplendido. Ancient unidos: AncientGreymon, AncientGarurumon, AncientWisemon, AncientVolcamon, AncientIrismon, AncientSphinxmon, AncientBeetlemon, AncientMermaidmon, AncientMegatheriummon, AncientTroymon.
