@@ -43,6 +43,34 @@ Goburimon -> Goblimon
 Goddramon -> Goldramon
 Lotusmon -> Lotosmon
 Gryzmon -> Grizzlymon
+AncientTroymon -> AncientTroiamon
+AncientVolcamon -> AncientVolcanomon
+Dark Tyrannomon -> DarkTyrannomon
+Death Meramon -> DeathMeramon
+DoneDevimon -> DanDevimon
+Griphonmon -> Gryphonmon
+KaiserGreymon -> EmperorGreymon
+Master Tyrannomon -> MasterTyrannomon
+Metal Tyrannomon -> MetalTyrannomon
+Nanomon -> Datamon
+Pile Volcamon -> PileVolcamon
+Raptordramon -> Reptiledramon
+Rust Tyrannomon -> RustTyranomon
+Scumon -> Sukamon
+Sephirothmon -> Sakkakumon
+Shakomon -> Syakomon
+Shawujinmon -> Shawjamon
+ShoutmonDX -> Shoutmon DX
+Super Darknightmon -> SuperDarkKnightmon
+Thunderballmon -> Thundermon
+Tiger Vespamon -> TigerVespamon
+Tocanmon -> Toucanmon
+Vritramon -> BurningGreymon
+Yaksamon -> Yasyamon
+Yarmon -> Yaamon
+Yukidarumon -> Frigimon
+Yukimi Botamon -> YukimiBotamon
+Z'd Garurumon -> ZeedGarurumon
 Nombres unidos: War Greymon, Black War Greymon, Metal Greymon, Metal Garurumon, Were Garurumon, Blitz Greymon, Cres Garurumon, Zeke Greymon, Shine Greymon, Victory Greymon, Rize Greymon, Kaiser Greymon, Mega/Giga/Metal Seadramon, Metal Etemon, King Etemon, Saint Galgomon, Lady Devimon, Ice Devimon, Marin Angemon, Marin Devimon, Rhino Kabuterimon, Skull Satamon, Skull Mammon.
 X-Antibody -> Anticuerpo X
 
