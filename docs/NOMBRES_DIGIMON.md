@@ -34,6 +34,13 @@ Culumon -> Calumon
 Siesamon -> Seasarmon
 Insekimon -> Meteormon
 Gaioumon -> Gaiomon
+Archnemon -> Arukenimon
+Bakumon -> Tapirmon
+Chimairamon -> Kimeramon
+Bitmon -> Rabbitmon
+Evilmon -> Vilemon
+Goburimon -> Goblimon
+Goddramon -> Goldramon
 Nombres unidos: War Greymon, Black War Greymon, Metal Greymon, Metal Garurumon, Were Garurumon, Blitz Greymon, Cres Garurumon, Zeke Greymon, Shine Greymon, Victory Greymon, Rize Greymon, Kaiser Greymon, Mega/Giga/Metal Seadramon, Metal Etemon, King Etemon, Saint Galgomon, Lady Devimon, Ice Devimon, Marin Angemon, Marin Devimon, Rhino Kabuterimon, Skull Satamon, Skull Mammon.
 X-Antibody -> Anticuerpo X
 
