@@ -71,6 +71,7 @@ Yarmon -> Yaamon
 Yukidarumon -> Frigimon
 Yukimi Botamon -> YukimiBotamon
 Z'd Garurumon -> ZeedGarurumon
+Zeed Millenniumon / Z'd Millenniumon -> ZeedMillenniumon
 Nombres unidos: War Greymon, Black War Greymon, Metal Greymon, Metal Garurumon, Were Garurumon, Blitz Greymon, Cres Garurumon, Zeke Greymon, Shine Greymon, Victory Greymon, Rize Greymon, Kaiser Greymon, Mega/Giga/Metal Seadramon, Metal Etemon, King Etemon, Saint Galgomon, Lady Devimon, Ice Devimon, Marin Angemon, Marin Devimon, Rhino Kabuterimon, Skull Satamon, Skull Mammon.
 X-Antibody -> Anticuerpo X
 
