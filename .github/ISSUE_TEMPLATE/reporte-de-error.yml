@@ -51,4 +51,4 @@ body:
     attributes:
       label: Versión de la traducción
       description: La que descargaste de Releases.
-      placeholder: v1.0
+      placeholder: v1.1

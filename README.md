@@ -13,7 +13,7 @@ misiones, diálogos de NPC, tiendas, mapas, enciclopedia, acertijos, interfaz y 
 
 ## Estado
 
-- Versión actual: **v1.0**.
+- Versión actual: **v1.1** (parche del 22 de octubre de 2026).
 - 43 archivos traducidos y probados dentro del juego.
 - Se siguen corrigiendo detalles a medida que se encuentran textos que se salen de los recuadros.
 - Hay textos que **no se pueden traducir desde estos archivos** (ver [Limitaciones](#limitaciones-conocidas)).
