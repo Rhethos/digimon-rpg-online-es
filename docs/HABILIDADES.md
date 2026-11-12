@@ -62,3 +62,10 @@ En las descripciones, "punhetazo(s)" en prosa paso a "golpe(s)" y los nombres pr
 ## Pendiente de ver en el juego
 - Ec_Attribute: nombre "Infierno de Llamas" (mas largo que "Infierno Igneo").
 - Tamer_Title (Friolento): ahora "Aliento de Lobo / Metalico" en dos lineas.
+
+## Cambios de la v1.2
+- Hombres de Fuego (Kotemon) -> Cabeza Ardiente ("Men" es el golpe a la cabeza del kendo; doblaje "Hot Head").
+- Llamada 88 (Fanbeemon) -> Llamada Zumbido (doblaje "Buzz-Buzz Call").
+- Omnishoutmon: Espiritu de Hard Rock -> Alma de Hard Rock y Omega, la Fusion -> Fusion Omega (tambien en Ec_Attribute y Ec_Battle_Attribute).
+- Tornado DORUlu y Canhon DORUlu -> Tornado Dorulu y Canhon Dorulu.
+- Ventana Info del Digimon: la linea de habilidades usa "Skill N : nombre (Danho Melee : %d)" y "(Danho a Dist. : %d)", mas cortas para que no se corten los nombres largos.
